@@ -8,7 +8,7 @@ LPA 是一种基于标签传播的局部社团划分算法，而GraphX 是一种
 
 ## 应用介绍
 ### 参考文档
-LPA 的相关论文参考 [Paper文件]()。
+LPA 的相关论文参考 [Paper文件](https://github.com/wuba/LPA-Detector/blob/master/paper/LPA.pdf)。
 
 Graphx 的详细说明文档：[GraphX说明文档](http://spark.apache.org/)
 
