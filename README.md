@@ -76,7 +76,6 @@ LPA是属于非收敛的算法，我们需要设定最大迭代次数，一般�
 以上数据量在Python 或者 R 实现的单机环境下无法进行有效迭代。
 
 ## Copyright and License
-todo
 
 
 
