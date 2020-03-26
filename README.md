@@ -34,7 +34,7 @@ Graphx 的详细说明文档：[GraphX说明文档](http://spark.apache.org/)
 ### 图的结构
 输入的图的RDD
 1. edge：Edge\<Map\<String,String\>\>
-2. vertices:Tuple2\<Long,Map\<String,Stgring\>\>
+2. vertices:Tuple2\<Long,Map\<String,String\>\>
  
 ### 参数说明
 LabelPropagationOps 类主要参数如下：
